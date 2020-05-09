@@ -1,0 +1,1 @@
+Python Flask backend app for keeping track of movies. It uses a flask sqlite database along with flas marshmallow for object serialization-deserialization.
