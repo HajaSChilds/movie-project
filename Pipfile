@@ -5,11 +5,13 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+autopep8 = "*"
 
 [packages]
 flask = "*"
 flask-sqlalchemy = "*"
 flask-marshmallow = "*"
+marshmallow-sqlalchemy = "*"
 flask-cors = "*"
 cloudinary = "*"
 
